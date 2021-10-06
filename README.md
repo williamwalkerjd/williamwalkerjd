@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamwalkerjd
 - 👀 I’m interested in coding as a second profession. I retired from the first. 
-- 🌱 I’m currently learning through codeacademy.com the full stack engineer career path and Alexa.  
+- 🌱 I’m currently learning through codeacademy.com. I am taking the full stack engineer career path and Alexa.  
 - 💞️ I’m not yet looking to collaborate 
 - 📫 No reason to email or text me yet. I just started. 
 
